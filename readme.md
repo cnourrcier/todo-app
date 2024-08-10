@@ -1,6 +1,8 @@
 # Todo App
 
+<!-- DESCRIPTION-START -->
 A Todo Application JavaScript project to learn how to handle form inputs, manage local storage, perform CRUD (Create, Read, Update, Delete) operations on tasks, implement event listeners, and toggle UI elements.
+<!-- DESCRIPTION-END -->
 
 ![project image](https://res.cloudinary.com/dwguf4w1t/image/upload/v1722357674/Portfolio%20Projects/todo-app-js_a65vhx.png)
 
